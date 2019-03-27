@@ -1,17 +1,17 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito");
 
-.devmountain {
+.DevMountain {
   background: #2aabe2;
   color: white;
   box-sizing: border-box;
   font-family: Nunito, sans-serif;
 }
 
-body.devmountain > header {
+body.DevMountain > header {
   background-color: #252525;
 }
 
-button.devmountain {
+button.DevMountain {
   margin: 12px;
   border-radius: 3px;
   background: #2aabe2;
@@ -54,22 +54,22 @@ main button.facebook {
   color: #606770;
 }
 
-.twitter {
+.Twitter {
   background: #e6ecf0;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-body.twitter > header {
+body.Twitter > header {
   background: #fff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.25);
 }
 
-main.twitter {
+main.Twitter {
   margin-top: 20px;
   background-color: white;
 }
 
-button.twitter {
+button.Twitter {
   border-color: #1da1f2;
   color: #1da1f2;
   border-radius: 100px;
